@@ -1,4 +1,11 @@
 ### Hi there 👋
+ 
+- 🔭 I’m currently working on Something Cool!!
+- 🌱 I’m currently learning Asp Net Core
+- 👯 I’m looking to collaborate on Open Source Porjects
+- 📫 How to reach me: Mehdipourparsa@gmail.com
+
+
 
 <!--
 **ParsaMehdipour/ParsaMehdipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
