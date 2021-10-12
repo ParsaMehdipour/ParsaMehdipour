@@ -1,6 +1,4 @@
-
-![WhatsApp Image 2021-09-04 at 15 04 48](https://user-images.githubusercontent.com/75223567/136922805-246c50b9-18d2-4d4a-b5c3-697821db184d.jpeg)
-
+![code](https://user-images.githubusercontent.com/75223567/136923228-fee164da-c083-4d60-851a-1f2a4fb80c13.gif)
 
 ### Hi there 👋
  
