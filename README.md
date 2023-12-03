@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Something Cool!!
 - 🌱 I’m currently learning Asp Net Core
 - 👯 I’m looking to collaborate on Open Source Porjects
-- 📫 How to reach me: Mehdipourparsa@gmail.com Or http://www.linkedin.com/in/parsa-mehdipour-7b40861b5
+- 📫 How to reach me: Mehdipourparsa@gmail.com or http://www.linkedin.com/in/parsa-mehdipour-7b40861b5
 
 
 
