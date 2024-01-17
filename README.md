@@ -3,7 +3,7 @@
 ### Hi there 👋
  
 - 🔭 I’m currently working on E-commerce web services
-- 🌱 I’m currently learning E-commerce🛒 domain logics and services🚀
+- 🌱 I’m currently learning E-commerce🛒 domain logics and services and also Elastic search🚀
 - 👯 I’m looking to collaborate on Open Source Porjects
 - 📫 How to reach me: Mehdipourparsa@gmail.com or http://www.linkedin.com/in/parsa-mehdipour-7b40861b5
 
