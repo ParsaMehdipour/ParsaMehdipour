@@ -12,30 +12,14 @@ I am a back-end developer with industry experience building web services. I spec
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [FaressBazar](https://faresbazar.com/). An eCommerce website.
+I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce website.
+
+![Screenshot (18)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/b7f3db4c-085d-4035-82ed-889c55fd30fb)
 
 &nbsp;
 
-### Hi there 👋
- 
-- 🔭 I’m currently working on E-commerce web services
-- 🌱 I’m currently learning E-commerce🛒 domain logics and services and also Elastic search🚀
-- 👯 I’m looking to collaborate on Open Source Porjects
-- 📫 How to reach me: Mehdipourparsa@gmail.com or http://www.linkedin.com/in/parsa-mehdipour-7b40861b5
+## 🖥 &nbsp;Past work
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParsaMehdipour&repo=Digital-Cinema&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/ParsaMehdipour/Digital-Cinema) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParsaMehdipour&repo=Intro-To-Rules-Engine-Design-Pattern&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/ParsaMehdipour/Intro-To-Rules-Engine-Design-Pattern)
 
-
-<!--
-**ParsaMehdipour/ParsaMehdipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
