@@ -1,4 +1,6 @@
-![code](https://user-images.githubusercontent.com/75223567/136923228-fee164da-c083-4d60-851a-1f2a4fb80c13.gif)
+# 👋 &nbsp;Hi there
+
+I am a back-end developer with industry experience building web services. I specialize in .NET Core, have professional experience working with C#, and understand banking and eCommerce domains. You can find me on Linkedin [@Parsa Mehdipour]([https://twitter.com/sudo_overflow](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5)). Feel free to message me any time.
 
 ### Hi there 👋
  
