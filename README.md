@@ -21,5 +21,5 @@ I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce web
 
 ## 🖥 &nbsp;Past work
 
-&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParsaMehdipour&repo=Intro-To-Rules-Engine-Design-Pattern&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/ParsaMehdipour/Intro-To-Rules-Engine-Design-Pattern) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParsaMehdipour&repo=Digital-Cinema&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/ParsaMehdipour/Digital-Cinema)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParsaMehdipour&repo=Intro-To-Rules-Engine-Design-Pattern&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/ParsaMehdipour/Intro-To-Rules-Engine-Design-Pattern) &nbsp;
 &nbsp;
