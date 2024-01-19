@@ -15,7 +15,7 @@ I am a back-end developer with industry experience building web services. I spec
 
 I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce website.
 
-![Screenshot (18)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/b7f3db4c-085d-4035-82ed-889c55fd30fb)
+![image (1)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/09c25bbc-4f93-4bd9-b01c-533558279757)
 
 &nbsp;
 
