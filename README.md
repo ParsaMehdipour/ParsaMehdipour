@@ -8,7 +8,7 @@
 
 # 👋 &nbsp;Hi there
 
-I am a back-end developer with industry experience building web services. I specialize in .NET Core, have professional experience working with C#, and understand banking and eCommerce domains. You can find me on Linkedin [@Parsa Mehdipour]([https://twitter.com/sudo_overflow](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5)). Feel free to message me any time.
+I am a back-end developer with industry experience building web services. I specialize in .NET Core, have professional experience working with C#, and understand banking and eCommerce domains. You can find me on Linkedin  [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to message me at any time.
 
 ## 👇 &nbsp;Current project
 
