@@ -6,9 +6,9 @@
 
 # 👋 &nbsp;Hi there
 
-I am a back-end developer with industry experience building web services. I specialize in .NET Core, have professional experience working with C#, and understand banking and eCommerce domains. You can find me on Linkedin  [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to message me at any time.
-
+I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to the banking and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
 &nbsp;
+
 [![GitHub followers](https://img.shields.io/github/followers/ParsaMehdipour?logo=GitHub&style=for-the-badge)](https://github.com/ParsaMehdipour) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ParsaMehdipour?logo=github&style=for-the-badge)](https://github.com/ParsaMehdipour) &nbsp;
 
 ## 👇 &nbsp;Current project
