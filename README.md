@@ -13,7 +13,7 @@
 />
 <img style="margin:auto; width:50%; border:3px solid green; padding:10px;" src="https://github-readme-stats.vercel.app/api?username=ParsaMehdipour&show_icons=true" />
 </picture>
-<img style="width:35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaMehdipour&hide=scss,less,svelte,css,html,php,dockerfile,batchfile,javascript,ruby,shell,typescript&langs_count=2" />
+<!-- <img style="width:35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaMehdipour&hide=scss,less,svelte,css,html,php,dockerfile,batchfile,javascript,ruby,shell,typescript&langs_count=2" /> -->
 </p>
 </div>
 
