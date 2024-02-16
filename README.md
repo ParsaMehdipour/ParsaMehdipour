@@ -9,7 +9,16 @@
 I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to the banking and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
 &nbsp;
 
-[![GitHub followers](https://img.shields.io/github/followers/ParsaMehdipour?logo=GitHub&style=for-the-badge)](https://github.com/ParsaMehdipour) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ParsaMehdipour?logo=github&style=for-the-badge)](https://github.com/ParsaMehdipour) &nbsp;
+<p align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ParsaMehdipour&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<img style="margin:auto; width:50%; border:3px solid green; padding:10px;" src="https://github-readme-stats.vercel.app/api?username=ParsaMehdipour&show_icons=true" />
+</picture>
+</p>
+
 
 ## 👇 &nbsp;Current project
 
