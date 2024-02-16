@@ -4,11 +4,6 @@
 	<br>
 </div>
 
-# 👋 &nbsp;Hi there
-
-I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to the banking and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
-&nbsp;
-
 <p align="center">
 <picture>
 <source 
@@ -18,6 +13,11 @@ I am an experienced back-end developer proficient in .NET Core and C#, with a fo
 <img style="margin:auto; width:50%; border:3px solid green; padding:10px;" src="https://github-readme-stats.vercel.app/api?username=ParsaMehdipour&show_icons=true" />
 </picture>
 </p>
+
+# 👋 &nbsp;Hi there
+
+I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to the banking and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
+&nbsp;
 
 
 ## 👇 &nbsp;Current project
