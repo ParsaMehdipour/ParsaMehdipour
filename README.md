@@ -23,7 +23,7 @@
 
 # 👋 &nbsp;Hi there
 
-I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to the banking and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
+I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to banking, taxation, and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
 &nbsp;
 
 
