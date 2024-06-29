@@ -31,7 +31,8 @@ I am an experienced back-end developer proficient in .NET Core and C#, with a fo
 
 I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce website.
 
-![image](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/dc9e27d5-a40f-4003-bf39-909af12abbe8)
+![image (1)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/0d2d9d89-e8fd-40bb-ba49-58f5ba25bf1d)
+
 
 &nbsp;
 
