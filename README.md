@@ -3,7 +3,7 @@
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
-
+</br>
 <div>
 <p align="center">
 <picture>
