@@ -1,9 +1,18 @@
-<div align="center">
-	<br>
-		<img src="271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="400px">
-	<br>
-</div>
-</br>
+
+# 👋 &nbsp;Hi there
+
+I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to banking, taxation, and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
+&nbsp;
+
+## 👇 &nbsp;Current project
+
+I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce website.
+
+![image (1)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/0d2d9d89-e8fd-40bb-ba49-58f5ba25bf1d)
+
+
+&nbsp;
+
 <div>
 <p align="center">
 <picture>
@@ -16,25 +25,6 @@
 <!-- <img style="width:35%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaMehdipour&hide=scss,less,svelte,css,html,php,dockerfile,batchfile,javascript,ruby,shell,typescript&langs_count=2" /> -->
 </p>
 </div>
-
-<p align="center">
-
-</p>
-
-# 👋 &nbsp;Hi there
-
-I am an experienced back-end developer proficient in .NET Core and C#, with a focus on building robust web services. My expertise extends to banking, taxation, and eCommerce domains. Connect with me on LinkedIn:   [Parsa Mehdipour](http://www.linkedin.com/in/parsa-mehdipour-7b40861b5). Feel free to reach out anytime.
-&nbsp;
-
-
-## 👇 &nbsp;Current project
-
-I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce website.
-
-![image (1)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/0d2d9d89-e8fd-40bb-ba49-58f5ba25bf1d)
-
-
-&nbsp;
 
 ## 🖥 &nbsp;Past work
 
