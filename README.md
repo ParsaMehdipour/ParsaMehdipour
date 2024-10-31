@@ -6,9 +6,7 @@ I am an experienced software developer proficient in .NET Core and C#, with a fo
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [FaresBazar](https://faresbazar.com/). An eCommerce website.
-
-![image (1)](https://github.com/ParsaMehdipour/ParsaMehdipour/assets/75223567/0d2d9d89-e8fd-40bb-ba49-58f5ba25bf1d)
+I'm currently developing a Healthcare Appointment Service 🧑‍⚕️ that empowers patients to manage their appointments with ease and efficiency. This service aims to streamline the scheduling process, offering patients greater control over their healthcare journey.
 
 
 &nbsp;
