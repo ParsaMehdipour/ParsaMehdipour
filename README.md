@@ -8,7 +8,7 @@ I am an experienced software developer proficient in .NET Core and C#, with a fo
 
 I'm currently developing a Healthcare Appointment Service 🧑‍⚕️ that empowers patients to manage their appointments with ease and efficiency. This service aims to streamline the scheduling process, offering patients greater control over their healthcare journey.
 
-![Screenshot 2025-01-01 204232-modified](https://github.com/user-attachments/assets/f6df3f7b-8231-4953-ad80-abecef402281)
+![Screenshot 2025-01-28 194702-modified](https://github.com/user-attachments/assets/9bcd74de-6fb3-4ba1-8168-ea1ca6cccdd6)
 
 &nbsp;
 
